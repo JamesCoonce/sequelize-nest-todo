@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "jamescoonce",
+    "password": null,
+    "database": "nestTodo",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "jamescoonce",
+    "password": null,
+    "database": "nestTodo",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "jamescoonce",
+    "password": null,
+    "database": "nestTodo",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
